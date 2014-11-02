@@ -1,0 +1,8 @@
+# OS crumbs
+.DS_store
+
+# IDE
+.idea/
+
+# Python
+*.pyc
